@@ -1,3 +1,7 @@
+/* 
+testing git remotely
+*/
+
 const API_KEY="ecb3bd358de241cabfe9fa25194a2a79";
 
 const url="https://newsapi.org/v2/everything?q=";
